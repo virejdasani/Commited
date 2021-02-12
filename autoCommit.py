@@ -4,12 +4,14 @@ ip = int(input("How many times do you want to commit? \n"))
 autoPush = input("Auto git push when commited? (y/n) \n")
 
 for i in range(ip):
-	os.system('git commit --allow-empty -m "Trigger notification $(date)"')
+	os.system('git commit --allow-empty -m "New Commit at: $(date)"')
+
+print("Commited " + str(ip) + " times")
 
 if autoPush == "y":
 	os.system('git push')
 	
-# git commit --allow-empty -m "Trigger notification $(date)"
+# git commit --allow-empty -m "New Commit at: $(date)"
 
 #  MADE BY:_            _   _____                        _ 
 #  \ \    / (_)        (_) |  __ \                      (_)
