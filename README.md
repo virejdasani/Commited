@@ -1,4 +1,4 @@
 # Commited
 
 ## Our Mission:
-#### Commited should be the repo on Github with the most commits 🚀
+#### Commited should be the GitHub repo with the most commits 🚀

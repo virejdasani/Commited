@@ -1,1 +1,1 @@
-git commit --allow-empty -m "Trigger notification $(date)"
+git commit --allow-empty -m "New commit at: $(date)"
