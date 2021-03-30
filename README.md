@@ -1,4 +1,3 @@
 # Commited
 
-## Our Mission:
-#### Commited should be the GitHub repo with the most commits 🚀
+### Commited is the GitHub repository with the most commits (3 MILLION) 🚀🚀🚀
